@@ -7,6 +7,9 @@
 </div>
 <br>
 
+![YonghoChoi's github stats](https://github-readme-stats-amber-mu.vercel.app/api?username=YonghoChoi&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
 
 ### 🌱 Software Engineer
 - I am developing an automation platform for DevOps in the gaming industry.
