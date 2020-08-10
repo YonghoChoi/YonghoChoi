@@ -7,7 +7,6 @@
 </div>
 <br>
 
-
 ### 🌱 Software Engineer
 - I am developing an automation platform for DevOps in the gaming industry.
 
