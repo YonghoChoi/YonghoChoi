@@ -3,7 +3,6 @@
 </div>
 
 ![YonghoChoi's github stats](https://github-readme-stats-amber-mu.vercel.app/api?username=YonghoChoi&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats-amber-mu.vercel.app/api/top-langs/?username=YonghoChoi&hide=HTML,CSS,PHP)](https://github.com/YonghoChoi/github-readme-stats)
 
 ### 🌱 Software Engineer
 - I am developing an automation platform for DevOps in the gaming industry.
