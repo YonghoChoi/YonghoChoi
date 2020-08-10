@@ -3,12 +3,9 @@
 </div>
 <br>
 <div align=center>
-  <img align="center" src="https://github-readme-stats-amber-mu.vercel.app/api?username=YonghoChoi&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-amber-mu.vercel.app/api?username=YonghoChoi&count_private=false&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
 <br>
-
-![YonghoChoi's github stats](https://github-readme-stats-amber-mu.vercel.app/api?username=YonghoChoi&count_private=true&show_icons=true)
-
 
 
 ### 🌱 Software Engineer
